@@ -1,2 +1,4 @@
+uvicorn
+gunicorn
 fastapi
 transformers
